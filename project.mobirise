@@ -1,0 +1,697 @@
+{
+  "settings": {
+    "name": "Vertiz ",
+    "currentPage": "Contact Us.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-32x32-32x32.png",
+    "noImageResize": "",
+    "versionFirst": "4.6.6",
+    "uniqCompNum": 47,
+    "versionPublish": "4.6.6",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "Who We Are.html": {
+      "settings": {
+        "title": "Who We Are",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#fff8e0"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Who We Are.html\">Who We Are</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"What We Do.html\">What We Do</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact Us.html\">Contact Us</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vertiz-logo-transparent-512x128.jpg",
+              "height": 128,
+              "alt": "VertizCorp",
+              "link": "index.html",
+              "title": "VertizCorp"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\">Mobirise</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#fff8e0"
+            },
+            ".nav-link": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "menu-a"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1400x935.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Who We Are",
+          "caption": "<p>Vertiz, a Software and ITES company primarily offers Information Technology Services, Software Development , Software Management and Maintenance , Managed Processes, consultancy, Products and Project Management to its clients and partners as part of its package-based solutions approach. Starting its formal operations in the year 2017 and based in Chennai, India,\n</p><p>KanBan Analytix, now known as Vertizcorp GMKSS Pvt. Ltd. has been in the field of IT since 2016 Since our inception we are a technology-centric organization. Our approach focuses\n</p><p>on new ways of business combining IT innovation and adoption while also leverag-ing on organization's current IT assets. Catering to wide-sector domains like Travel, Accounting, Finance, Training, Medicine &amp; Energy, etc; for us, doing business has never been just limited to lighting-up bottom-lines or plugging bottom-leaks; but to provide a Comprehensive, All-round &amp; Self-sustaining solutions to our clients, based on the guiding principles of honesty and Customer-First policy.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-d"
+        }
+      ]
+    },
+    "What We Do.html": {
+      "settings": {
+        "title": "What We Do",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Premium Tech Support",
+          "caption1": "•\tConsumer technical support – &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Consumer-focused warranty support\n<br>•\tPremium services - B2B and B2C &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; technical support services via &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; subscription, pay services, out of &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; warranty, and Pay-for-Support &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; channels\n<br>•\tB2B technical support - business and &nbsp; advanced (enterprise) commercial &nbsp; &nbsp; &nbsp; support channels&nbsp;<br>",
+          "title2": "Acquisition And Enrollment",
+          "caption2": "•\tB2C &amp; B2B sales\n<br>•\tCustomer activation\n<br>•\tRenewals\n<br>•\tCustomer retention, reactivation, and re-acquisition\n<br>•\tCross sell and up sell\n<br>•\tLead qualification\n<br>•\tLead generation\n<br>•\tLead nurturing and customer education\n<br>•\tAppointment setting\n<br>•\tMarket and customer profiling&nbsp;<br>",
+          "title3": "Care &amp; Support",
+          "caption3": "•\tTrue omni-channel implementations &nbsp; &nbsp; &nbsp;and Unified Desktop capabilities\n<br>•\tCustomer Experience Management &nbsp; &nbsp; &nbsp; &nbsp;Platforms&nbsp;<br>",
+          "title4": "Data Processing Support",
+          "caption4": "•\tData Entry\n<br>•\tProof Reading\n<br>•\tWeb-Content Audit&nbsp;<br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-n",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "11px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#0275d8"
+            },
+            "H4": {
+              "color": "#a8d0ea"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/process-map-275x183.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Redefine..Re-engineered...Results",
+          "text": "<p>Getting to easy is hard.\n</p><p>Business doesn't just happen. It’s a complex network of procedures, operations, and people. It's process, and it impacts everything.\n</p><p>\n</p><p>At Vertiz we combine design thinking, domain expertise, and a deep understanding of business processes to get to the simplified solutions that work for you and your customers.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-o",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#fff8e0"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Who We Are.html\">Who We Are</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"What We Do.html\">What We Do</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact Us.html\">Contact Us</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vertiz-logo-transparent-512x128.jpg",
+              "height": 128,
+              "alt": "VertizCorp",
+              "link": "index.html",
+              "title": "VertizCorp",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\">Mobirise</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-a",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#fff8e0"
+            },
+            ".nav-link": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            }
+          }
+        }
+      ]
+    },
+    "Contact Us.html": {
+      "settings": {
+        "title": "Contact Us",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#fff8e0"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Who We Are.html\">Who We Are</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"What We Do.html\">What We Do</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact Us.html\">Contact Us</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vertiz-logo-transparent-512x128.jpg",
+              "height": 128,
+              "alt": "VertizCorp",
+              "link": "index.html",
+              "title": "VertizCorp",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\">Mobirise</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#fff8e0"
+            },
+            ".nav-link": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "menu-6"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.7"
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "text1": "<strong>Contact</strong><br>\nEmail: connect@vertizcorp.com<br><br>Voice<br><br>+91 7358734049",
+          "text2": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "connect@vertizcorp.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-p",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 VertizCorp PLC. <a href=\"Terms Of Use.html#content5-16\">Terms of Use</a>  | <a href=\"Privacy Policy.html\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-r"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#FFF8E0",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.4"
+          },
+          "text": "Follow Us",
+          "icons": "       <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-u"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1623x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "See what process transformation can do for your company.",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"What We Do.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-0",
+          "_styles": {
+            "H1": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "color": "#000000",
+              "font-size": "60px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#fff8e0"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Who We Are.html\">Who We Are</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"What We Do.html\">What We Do</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact Us.html\">Contact Us</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vertiz-logo-transparent-512x128.jpg",
+              "height": 128,
+              "alt": "VertizCorp",
+              "link": "index.html",
+              "title": "VertizCorp",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\">Mobirise</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#fff8e0"
+            },
+            ".nav-link": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "menu-6"
+        }
+      ]
+    },
+    "Terms Of Use.html": {
+      "settings": {
+        "title": "Terms Of Use",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#fff8e0"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Who We Are.html\">Who We Are</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"What We Do.html\">What We Do</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact Us.html\">Contact Us</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vertiz-logo-transparent-512x128.jpg",
+              "height": 128,
+              "alt": "VertizCorp",
+              "link": "index.html",
+              "title": "VertizCorp",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\">Mobirise</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#fff8e0"
+            },
+            ".nav-link": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "menu-13"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#8f99af",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Terms Of Use",
+          "caption": "<p>Introduction\n</p><p>Welcome to the VertizCorp PLC website located at www.vertizcorp.com (the \"Site\"). The Site is Internet property of VertizCorp PLC (\"VertizCorp PLC,\" \"we,\" \"our\" or \"us\"). You agree that you have read and agree to the following Terms of Use (\"Terms of Use\"), in their entirety, when you: (a) access or use the Site; (b) access and/or download any of the text, photographs, graphics, artwork and/or other content featured on the Site (collectively, \"Content\"); (c) register to receive email correspondence which contains updates and information associated with various VertizCorp PLC products and/or services (collectively, the \"Products\"); (d) access links to VertizCorp PLC’ social media pages/accounts on third party social media websites, such as Facebook®, Google+®, Pinterest®, LinkedIn®, Twitter® and YouTube® (collectively, \"Social Media Pages\"); and/or (e) utilize the Site’s many interactive features designed to facilitate interaction between you, VertizCorp PLC and other Site users including Social Media Pages (collectively, the \"VertizCorp PLC Offerings\" which includes \"Content\"). If you do not agree to these Terms or Use, then you are not allowed to use this Site. Content of, and/or opinions expressed on, the site and in any corresponding comments are the personal opinions of the original authors, not of us. The content is provided for informational purposes only and is not meant to be an endorsement or representation by us or any other party. We reserve the right to modify this Site at any time, but we have no obligation to update any information on the Site. You agree that it is your responsibility to monitor changes to the Site, including our Terms of Use.\n</p><p>Facebook® is a registered trademark of Facebook, Inc. (\"Facebook\"). Google+® is a registered trademark of Google, Inc. (\"Google\"). LinkedIn® is a registered trademark of LinkedIn Corporation (\"LinkedIn\"). Pinterest® is a registered trademark of Pinterest, Inc. (\"Pinterest\"). Twitter® is a registered trademark of Twitter, Inc. (\"Twitter\"). YouTube® is a registered trademark of Google. Please be advised that VertizCorp PLC is not in any way affiliated with Facebook, Google, LinkedIn, Pinterest or Twitter.\n</p><p>&nbsp;\n</p><p>Proprietary Rights, Trademarks and Copyrights\n</p><p>You agree that the VertizCorp PLC Offerings and any and all trademarks, including service marks, logos, trade names, trade dress, capitalized terms and items, as well as the following items made available in connection therewith, and its compilation, including, but not limited to, source and object code, graphics, images, text, audio clips, button icons, digital downloads, data compilations and computer software (also \"Content\"), are the sole property of VertizCorp PLC or its partners, suppliers or licensors, and protected by United States, and international, copyright laws, and trademark laws. All software used on the Site is the property of VertizCorp PLC or its software suppliers or licensors and protected by United States, and international, copyright laws. Users are granted permission to browse and use the VertizCorp PLC Offerings for information purposes or as otherwise intended by us only. Any other use or exploitation including, but not limited to, the reproduction, duplication, modification, distribution, sale, transmission, republication, removal, deletion, addition, framing, display or performance of the VertizCorp PLC Offerings, in part or in whole, is strictly prohibited. Except as expressly authorized in writing, the use or misuse of any trademarks, service marks, trade names, logos, text, images, graphics, intellectual property or Content associated with the VertizCorp PLC Offerings is strictly prohibited.\n</p><p>VertizCorp PLC does not grant, by implication or otherwise, any license or right to use any Content displayed by and through the VertizCorp PLC Offerings, without the express prior written consent of VertizCorp PLC. VertizCorp PLC prohibits use of the \"VertizCorp PLC\" name and/or logo or other proprietary graphic, mark, trade dress, logo or trademark as a link to any third party website unless creating such a link is expressly approved in advance by VertizCorp PLC. Registered and unregistered proprietary information is owned and held by VertizCorp PLC and its licensors and therefore, you may be liable for infringement or misappropriation or other legal action to the fullest extent of the law if you misuse the Site or VertizCorp PLC Offerings in any manner, including use in a way that disparages us, causes any confusion in commerce or trade, or conflates Vertizcorp PLC with other goods or services not attributable to us.\n</p><p>All other trademarks, marks, logos, trade dress, service marks, etc. not owned by VertizCorp PLC or Content that appear on or through the VertizCorp PLC Offerings are the property of their respective owners, who may or may not be affiliated with, connected to or sponsored by VertizCorp PLC.\n</p><p>&nbsp;\n</p><p>Use Restrictions\n</p><p>The VertizCorp PLC Offerings are made available for informational use only. You agree that you will not use the VertizCorp PLC Offerings: (a) for any unapproved commercial or political purpose including, but not limited to, advertising, soliciting funds, or selling similar services; (b) to monitor, gather, scrape or copy content, user data or other material made available by and through the VertizCorp PLC Offerings by using any robot, \"bot,\" spider, crawler, spyware, engine, device, software, extraction tool or any other automatic device, utility or manual process of any kind; (c) to frame or utilize framing techniques to enclose any trademark, mark, trade dress, logo, service mark or other proprietary information including, but not limited to, any content, images, text or page layout; (d) in connection with any metatags or any other \"hidden text\" utilizing VertizCorp PLC’ name or any of its trademarks, mark, logo, trade dress, service mark or other proprietary information; and/or (e) to engage in any activity that interferes with an end-user's access to, or the proper functioning of, the Site or other VertizCorp PLC Offerings. Without limiting the foregoing, you may not modify, reproduce, duplicate, copy, distribute, sell, resell, publish, license, visit or otherwise exploit any portion of the VertizCorp PLC Offerings or Content for any unapproved commercial purpose. You also agree that in using the VertizCorp PLC Offerings or Content you will not impersonate any person or entity.\n</p><p>&nbsp;\n</p><p>Electronic Communications\n</p><p>When you visit the Site or send e-mails to us, you are communicating with us electronically. You consent to receive communications from us electronically. You agree that all agreements, notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.\n</p><p>&nbsp;\n</p><p>Disclaimer\n</p><p>YOUR USE OF THIS SITE IS AT YOUR OWN RISK. THE CONTENT IS PROVIDED AS IS AND WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESSED OR IMPLIED. VERTIZCORP PLC DISCLAIMS ALL WARRANTIES, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT. VERTIZCORP PLC DOES NOT WARRANT THAT THE VERTIZCORP PLC OFFERINGS OR CONTENT CONTAINED IN THIS SITE WILL BE UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR THAT THIS SITE OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. VERTIZCORP PLC DOES NOT WARRANT OR MAKE ANY REPRESENTATION REGARDING USE, OR THE RESULT OF USE, OF THE VERTIZCORP PLC OFFERINGS OR THE CONTENT IN TERMS OF ACCURACY, RELIABILITY, OR OTHERWISE. THE VERTIZCORP PLC OFFERINGS OR CONTENT MAY INCLUDE TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS, AND VERTIZCORP PLC MAY MAKE CHANGES OR IMPROVEMENTS AT ANY TIME. YOU, AND NOT VERTIZCORP PLC, ASSUME THE ENTIRE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION IN THE EVENT OF ANY LOSS OR DAMAGE ARISING FROM THE USE OF THIS SITE, THE VERTIZCORP PLC OFFERINGS OR ITS CONTENT. VERTIZCORP PLC MAKES NO WARRANTIES THAT YOUR USE OF THE VERTIZCORP PLC OFFERINGS OR CONTENT WILL NOT INFRINGE THE RIGHTS OF OTHERS AND ASSUMES NO LIABILITY OR RESPONSIBILITY FOR ERRORS OR OMISSIONS IN SUCH CONTENT.\n</p><p>\n</p><p>Limitations\n</p><p>VERTIZCORP PLC, ITS SUBSIDIARIES, AFFILIATES, LICENSORS, SERVICE PROVIDERS, CONTENT PROVIDERS, EMPLOYEES, AGENTS, OFFICERS, AND DIRECTORS WILL NOT BE LIABLE FOR ANY INCIDENTAL, DIRECT, INDIRECT, PUNITIVE, ACTUAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR OTHER DAMAGES, INCLUDING LOSS OF REVENUE OR INCOME, PAIN AND SUFFERING, EMOTIONAL DISTRESS, OR SIMILAR DAMAGES, EVEN IF VERTIZCORP PLC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\n</p><p>&nbsp;\n</p><p>Indemnity\n</p><p>You will indemnify and hold VertizCorp PLC , its subsidiaries, affiliates, licensors, content providers, service providers, employees, agents, officers, directors, and contractors (the \"Indemnified Parties\") harmless from any breach of these Terms of Use by you, including any use of VertizCorp PLC or Content other than as expressly authorized in these Terms of Use. You agree that the Indemnified Parties will have no liability in connection with any such breach or unauthorized use, and you agree to indemnify any and all resulting loss, damages, judgments, awards, costs, expenses, and attorneys’ fees of the Indemnified Parties in connection therewith. You will also indemnify and hold the Indemnified Parties harmless from and against any claims brought by third parties arising out of your use of the information accessed from this site.\n</p><p>\n</p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-16",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "Privacy Policy.html": {
+      "settings": {
+        "title": "Privacy Policy",
+        "order": 5
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#fff8e0"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Who We Are.html\">Who We Are</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"What We Do.html\">What We Do</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact Us.html\">Contact Us</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vertiz-logo-transparent-512x128.jpg",
+              "height": 128,
+              "alt": "VertizCorp",
+              "link": "index.html",
+              "title": "VertizCorp",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\">Mobirise</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#fff8e0"
+            },
+            ".nav-link": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "menu-17"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#8f99af",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Privacy Policy",
+          "caption": "<p>Introduction\n</p><p>We at Vertizcorp PLC and our affiliated companies worldwide (\"Vertizcorp PLC\") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (\"Personal Information\") you share with us.\n</p><p>Vertizcorp PLC has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information.\n</p><p>Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Vertizcorp PLC's Web pages without telling us who you are or revealing any Personal Information about yourself.\n</p><p>If you choose to provide us with your Personal Information on the Web, we may transfer that Information within Vertizcorp PLC or to Vertizcorp PLC's third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.\n</p><p>Vertizcorp PLC strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Vertizcorp PLC intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an \"adequate\" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.\n</p><p>&nbsp;\n</p><p>Cookies and Other Tracking Technologies\n</p><p>Some of our Web pages utilize \"cookies\" and other tracking technologies. A \"cookie\" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.\n</p><p>You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site.\n</p><p>Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.\n</p><p>To protect your privacy, we have adopted the following principles:\n</p><p>•\tNotice: Where Vertizcorp PLC collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of Vertizcorp PLC or those working on Vertizcorp PLC's behalf. Vertizcorp PLC does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Vertizcorp PLC's behalf unless such transfer is legally required.\n</p><p>•\tChoice: You may choose whether or not to provide Personal Information to Vertizcorp PLC. The notice we intend to provide where Vertizcorp PLC collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of Vertizcorp PLC's Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you. If you chose to have a relationship with Vertizcorp PLC, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.\n</p><p>•\tSecurity: Wherever your Personal Information may be held within Vertizcorp PLC or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure.\n</p><p>•\tAccess/Accuracy: To the extent that you do provide us with Personal Information, Vertizcorp PLC wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting Vertizcorp PLC should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to connect@Vertizcorp.com and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.\n</p><p>&nbsp;\n</p><p>Third Party Services\n</p><p>Third parties provide certain services available on www.vertizcorp.com on Vertizcorp PLC's behalf. Vertizcorp PLC may provide information, including Personal Information, that Vertizcorp PLC collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which Vertizcorp PLC maintains its Web site and mailing lists. Vertizcorp PLC will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Vertizcorp PLC's behalf.\n</p><p>Vertizcorp PLC does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Vertizcorp PLC's behalf unless such transfer is legally required. Similarly, it is against Vertizcorp PLC's policy to sell Personal Information collected online without consent.\n</p><p>\n</p><p>Children's Privacy\n</p><p>www.vertizcorp.com is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age.\n</p><p>&nbsp;\n</p><p>Commitment\n</p><p>We are committed to privacy. Protecting your privacy online is an evolving area, and Vertizcorp PLC's Web sites are constantly evolving to meet these demands.\n</p><p>If you have any comments or questions regarding our Online Privacy Policy, please contact us at connect@Vertizcorp.com While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.\n</p><p>&nbsp;\n</p><p>\n</p><p>Your Consent\n</p><p>By using this Web site, you consent to the terms of our Online Privacy Policy and to Vertizcorp PLC's processing of Personal Information for the purposes given above as well as those explained where Vertizcorp PLC collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.\n</p><p>\n</p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1a",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
