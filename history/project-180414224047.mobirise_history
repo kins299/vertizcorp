@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vertiz ",
-    "currentPage": "index.html",
+    "currentPage": "Contact Us.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -14,11 +14,7 @@
     "versionFirst": "4.6.6",
     "uniqCompNum": 48,
     "versionPublish": "4.6.6",
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "gitHubName": "kins299",
-    "gitHubPath": "vertizcorp",
-    "publishPath": "file:///C:/Users/home/Documents/vertizwebsite%20final"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "Who We Are.html": {
